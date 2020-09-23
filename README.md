@@ -4,18 +4,13 @@
 [GitHub](https://github.com/josephptflanagan/20200922-Budget-Tracker)
 
 ## Heroku URL
-[Heroku]()
+[Heroku](https://arcane-sea-67344.herokuapp.com/)
+
+## Screenshot of the Interface
+[Screenshot]
 
 ## Description
-A budget tracker with added offline capabilites
+A graphical budget tracker with added offline capabilites.
+</br>
+This project was provided with most of the frontend features intact, I added offline capabilities, and online data storage. IndexDB allows for local storage of data if the internet connection is lost, with site data managed by an added service worker. When the connection is restablished, data created from work done in the interim is sent to the database. The Heroku Site's data is hosted on MongoDB Atlas. 
 
-## Installation Instructions
-1. Download all files.
-2. Initialize the npm with:
-    * npm init -y
-3. Use the following command to install the dependencies:
-    * npm i compression express mongoose morgan
-4. Start the server with:
-    * npm start
-5. View the interface at: 
-    * http://localhost:3001/
