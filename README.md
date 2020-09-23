@@ -7,7 +7,7 @@
 [Heroku](https://arcane-sea-67344.herokuapp.com/)
 
 ## Screenshot of the Interface
-[Screenshot]
+[Screenshot](https://github.com/josephptflanagan/20200922-Budget-Tracker/blob/master/screenshot/Budget-Tracker%20Screenshot.jpg)
 
 ## Description
 A graphical budget tracker with added offline capabilites.
