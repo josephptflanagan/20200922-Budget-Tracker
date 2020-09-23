@@ -41,7 +41,7 @@
       "type": "image/png"
     }
   ],
-  "name": "Bidget Tracker",
+  "name": "Budget Tracker",
   "short_name": "Budgeteer",
   "orientation": "portrait",
   "display": "standalone",
