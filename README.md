@@ -12,5 +12,5 @@
 ## Description
 A graphical budget tracker with added offline capabilites.
 </br>
-This project was provided with most of the frontend features intact, I added offline capabilities, and online data storage. IndexDB allows for local storage of data if the internet connection is lost, with site data managed by an added service worker. When the connection is restablished, data created from work done in the interim is sent to the database. The Heroku Site's data is hosted on MongoDB Atlas. 
+This project was provided with most of the frontend features intact, I added offline capabilities, and online data storage. IndexDB allows for local storage of data if the internet connection is lost, with site data managed by an added service worker. When the connection is restablished, data created from work done in the interim is sent to the database. The Heroku Site's data is hosted on MongoDB Atlas. By clicking the plus sign in the url bar you can install a facsimile of the site on your machine.
 
